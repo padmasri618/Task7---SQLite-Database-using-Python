@@ -96,7 +96,7 @@ GROUP BY product
 
 ---
 
-### Conclusion
+## Conclusion
 - This project successfully demonstrates how SQL can be integrated into Python workflows for basic sales reporting.
 
 - It combines SQL querying power with Python’s visualization (matplotlib) and data handling (pandas).
