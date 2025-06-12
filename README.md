@@ -24,13 +24,13 @@ This project uses a small, manually inserted dataset in SQLite with the followin
 
  ## Product Quantity   Price 
 
- Pen         10         1.5   
- Notebook    5          3.0   
- Pencil      20         0.5   
- Eraser      15         0.75  
- Pen         7          1.5   
- Notebook    3          3.0   
- Pencil      10         0.5   
+* Pen         10         1.5   
+* Notebook    5          3.0   
+* Pencil      20         0.5
+* Eraser      15         0.75  
+* Pen         7          1.5   
+* Notebook    3          3.0   
+* Pencil      10         0.5   
 
 ---
 
@@ -82,16 +82,17 @@ GROUP BY product
 ---
 
 ##  Visualization
- Revenue by Product:![output_11_1 1](https://github.com/user-attachments/assets/1c568cb1-238b-4265-b322-f4ddd400da87)
+ Revenue by Product:
+![output_11_1 1](https://github.com/user-attachments/assets/0c70f1e3-c3aa-49b4-aefc-89581e7ce887)
 
 ---
 
 ## Task Outcomes
      Step	                            Outcome
-- SQLite DB Creation	   Successful creation and data insertion
-- SQL Query Execution 	 Accurate grouping and aggregation of data
-- Summary Table	         Clean and readable using pandas
-- Visualization	         Informative revenue bar chart per product
+* SQLite DB Creation	   Successful creation and data insertion
+* SQL Query Execution 	 Accurate grouping and aggregation of data
+* Summary Table	         Clean and readable using pandas
+* Visualization	         Informative revenue bar chart per product
 
 ---
 
