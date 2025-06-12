@@ -83,7 +83,9 @@ GROUP BY product
 
 ##  Visualization
  Revenue by Product:
-![output_11_1 1](https://github.com/user-attachments/assets/0c70f1e3-c3aa-49b4-aefc-89581e7ce887)
+![Screenshot 2025-06-12 130524](https://github.com/user-attachments/assets/b603df72-23ee-4f72-9d2f-91fb8f59f5ad)
+
+
 
 ---
 
